@@ -61,7 +61,7 @@ a[href^="https://"]::after{
 
 /* Exercice 10 */
 
-.exercice10 ol li:nth-child(n+13):nth-child(-n+22){
+.exercice10 ol li:nth-child(n+14):nth-child(-n+23){
   background-color: red;
 }
 
@@ -73,7 +73,7 @@ a[href^="https://"]::after{
 
 /* Exercice 12 */
 
-.exercice12 > ul{
+.exercice12 > ul:hover{
   border: red 3px solid;
 }
 
