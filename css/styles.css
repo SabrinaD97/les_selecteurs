@@ -117,6 +117,10 @@ input:checked + label{
 
 /* Exercice 18 */
 
+.word > .char:last-child{
+  color: #640101;
+}
+
 /*-------------------------------------------
 -
 -   Ne rien modifier dans le CSS qui suit
