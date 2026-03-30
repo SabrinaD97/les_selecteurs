@@ -67,13 +67,29 @@ a[href^="https://"]::after{
 
 /* Exercice 11 */
 
-
+.exercice11 ul{
+  border: red 3px solid;
+}
 
 /* Exercice 12 */
 
+.exercice12 > ul{
+  border: red 3px solid;
+}
+
 /* Exercice 13 */
 
+.exercice13 img[src$=".jpg"]{
+  border: red 3px solid;
+}
+
 /* Exercice 14 */
+
+nav a:hover{
+  background-color: #BF2A2A;
+  border-bottom: black 3px solid;
+  color: black;
+}
 
 /* Exercice 15 */
 
